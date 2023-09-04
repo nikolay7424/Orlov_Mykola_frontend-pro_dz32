@@ -1,0 +1,10 @@
+.navigation {
+  list-style: none;
+  text-align: start;
+  margin: 2rem 0 0 0;
+}
+
+.navigation a {
+  text-decoration: none;
+  color: white;
+}
